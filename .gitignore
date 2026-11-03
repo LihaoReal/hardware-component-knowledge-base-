@@ -1,0 +1,16 @@
+# Obsidian 客户端易失状态：工作区布局与最近打开文件，随客户端改写，不纳入版本控制
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 缓存与回收站
+.obsidian/cache/
+.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+~$*
